@@ -12,7 +12,7 @@
   ],
   "author": "anzdig",
   "license": "ISC",
-  "repository": "anzdig/anzdig.locale",
+  "repository": "erickzaso/anzdig.locale",
   "devDependencies": {
     "angular": "^1.6.4",
     "angular-sanitize": "^1.6.4",
