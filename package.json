@@ -12,7 +12,10 @@
   ],
   "author": "anzdig",
   "license": "ISC",
-  "repository": "erickzaso/anzdig.locale",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erickzaso/anzdig.locale"
+  },
   "devDependencies": {
     "angular": "^1.6.4",
     "angular-sanitize": "^1.6.4",
