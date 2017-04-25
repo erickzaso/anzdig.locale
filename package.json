@@ -1,0 +1,21 @@
+{
+  "name": "anzdig.locale",
+  "version": "1.0.0",
+  "description": "This modules is used to manage multilanguage in an angular web application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "locale",
+    "angular"
+  ],
+  "author": "anzdig",
+  "license": "ISC",
+  "repository": "anzdig/anzdig.locale",
+  "devDependencies": {
+    "angular": "^1.6.4",
+    "angular-sanitize": "^1.6.4",
+    "angular-translate": "^2.15.1"
+  }
+}
